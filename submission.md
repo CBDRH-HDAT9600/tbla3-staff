@@ -5,7 +5,7 @@ Mark Hanly
 
 ### Housekeeping
 
-📹 Cameras and recording
+📼 Cameras and recording
 
 💻 Linear models assessment open. Due 9am Monday 14 March.
 
@@ -15,7 +15,7 @@ Mark Hanly
 
 ### TBLA Submissions
 
-#### 🎈 Lot’s of great work—well done\!
+#### 🎉 Lot’s of great work—well done\!
 
 Let’s discuss.
 

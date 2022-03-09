@@ -80,7 +80,7 @@ tvdoctor$e <- tvdoctor$life - tvdoctor$p
 
 ggplot(data = tvdoctor, aes(x=e)) + geom_histogram(bins=8) + labs(title = "histogram of residuals")
 
-ggplot(data = tvdoctor, aes(sample = p)) + geom_qq() + geom_qq_line() + labs(title = "QQ plot of residuals")
+ggplot(data = tvdoctor, aes(sample = e)) + geom_qq() + geom_qq_line() + labs(title = "QQ plot of residuals")
 
 ```
 
@@ -115,4 +115,9 @@ olsrr::ols_test_breusch_pagan(mod1, rhs=TRUE)
 The null hypothesis for this test is that the variance is constant. The p-value is relatively high so we do not reject this null hypothesis. 
 
 ***
+
+
+
+
+
 
